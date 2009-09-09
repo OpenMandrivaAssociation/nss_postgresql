@@ -1,6 +1,6 @@
 %define name nss_postgresql 
 %define version 0.6.1
-%define release %mkrel 6
+%define release %mkrel 7
 
 Summary: NSS library for postgresql
 Name: %{name}
