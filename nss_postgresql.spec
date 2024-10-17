@@ -9,7 +9,7 @@ Release: %{release}
 Source0: http://ovh.dl.sourceforge.net/sourceforge/authpgsql/%{name}-%{version}.tar.bz2
 License: GPL
 Group: System/Libraries
-Url: http://www.sourceforge.net/projects/authpgsql
+Url: https://www.sourceforge.net/projects/authpgsql
 BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildRequires: libpq-devel
 BuildRequires: postgresql-devel
