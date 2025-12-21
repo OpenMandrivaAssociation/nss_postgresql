@@ -11,6 +11,7 @@ License: GPL
 Group: System/Libraries
 Url: https://www.sourceforge.net/projects/authpgsql
 BuildRoot: %{_tmppath}/%{name}-buildroot
+BuildRequires:	make
 BuildRequires: libpq-devel
 BuildRequires: postgresql-devel
 
